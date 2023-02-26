@@ -52,7 +52,7 @@ pm_buttons = [
     [InlineKeyboardButton(text="𓂄𓆩 اٰلـٰ̲ـہاٰوٰاٰمـٰ̲ـہرٰ 𓆪‌‌‏𓂁", callback_data="fallen_help")],
     [
         InlineKeyboardButton(text="أمـَيـَرتــʊ̤ 🕊🤍 .", url=config.SUPPORT_CHANNEL),
-       InlineKeyboardButton(text=" كروب اميرتي🤍", url=config.SUPPORT_CHAT),
+       InlineKeyboardButton(text="ڪࢪوب أمـَيـَرتــʊ̤ 🕊🤍 .", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
@@ -72,7 +72,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(text="أمـَيـَرتــʊ̤ 🕊🤍 .", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="كروب اميرتي 🤍 ", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="ڪࢪوب أمـَيـَرتــʊ̤ 🕊🤍 .", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
