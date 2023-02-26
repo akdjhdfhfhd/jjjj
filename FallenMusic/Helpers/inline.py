@@ -52,11 +52,11 @@ pm_buttons = [
     [InlineKeyboardButton(text="𓂄𓆩 اٰلـٰ̲ـہاٰوٰاٰمـٰ̲ـہرٰ 𓆪‌‌‏𓂁", callback_data="fallen_help")],
     [
         InlineKeyboardButton(text="أمـَيـَرتــʊ̤ 🕊🤍 .", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="ѕụᴘᴘᴏʀᴛ ", url=config.SUPPORT_CHAT),
+       InlineKeyboardButton(text=" كروب اميرتي🤍", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="ᴏѕᴀᴍᴀ ѕᴇᴠᴇɴ", url="https://t.me/ah_2_v"
+            text="𝑌.𝑂²¹ ͢͢➛ℍ𝗺!ِٰ𝗱♪", url="https://t.me/ah_2_v"
         ),
         InlineKeyboardButton(text="ʙᴏᴛ ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
     ],
@@ -72,11 +72,11 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(text="أمـَيـَرتــʊ̤ 🕊🤍 .", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="ѕụᴘᴘᴏʀᴛ ", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="كروب اميرتي 🤍 ", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="ᴏѕᴀᴍᴀ ѕᴇᴠᴇɴ", url="https://t.me/ah_2_v"
+            text="𝑌.𝑂²¹ ͢͢➛ℍ𝗺!ِٰ𝗱♪", url="https://t.me/ah_2_v"
         ),
         InlineKeyboardButton(text="ʙᴏᴛ ᴏᴡɴᴇʀ", user_id=config.OWNER_ID),
     ],
