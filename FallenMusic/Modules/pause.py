@@ -37,12 +37,12 @@ async def pause_str(_, message: Message):
 
     if not await is_streaming(message.chat.id):
         return await message.reply_text(
-            "⎊ اكتب كمل عشان يكمل الاغنيه 😋"
+            "⎊ اكتب كمل لأستئناف الاغنيه 😋"
         )
 
     await pytgcalls.pause_stream(message.chat.id)
     await stream_off(message.chat.id)
     return await message.reply_text(
-        text=f"⎊ اهو سكتت متزعقش 🥺\n│ \n└ʙʏ : {message.from_user.mention} ♥",
+        text=f" خلصت منك😒\n│ \n└ʙʏ : {message.from_user.mention} ♥",
         reply_markup=close_key,
     )
